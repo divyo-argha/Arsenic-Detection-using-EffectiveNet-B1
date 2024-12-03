@@ -1,1 +1,1 @@
-# Arsenic-Detection-using-EffectiveNet-B1
+# Arsenic-Detection-using-EfficientNet-B1
